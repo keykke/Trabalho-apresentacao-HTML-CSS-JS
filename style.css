@@ -1,0 +1,98 @@
+body{
+    background-color:beige;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    background-color: rgb(173, 173, 149);
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+.imagem1{
+    border-radius: 50px;
+    height: 200px;
+    width: 230px;
+    margin-left: 20px;
+    border:4px;
+    border-style: groove;
+    border-color: rgb(174, 124, 63);
+}
+.imagem2{
+    border-radius: 50px;
+    margin-left: 50px;
+    height: 200px;
+    width: 250px;
+    border:4px;
+    border-style: groove;
+    border-color: rgb(102, 70, 30);
+}
+.imagem3{
+    border-radius: 50px;
+    margin-left: 50px;          
+    height: 200px;
+    width: 260px;
+    border: 4px;
+    border-style: groove;
+    border-color: rgb(102, 70, 30);
+}
+.imagem4{
+    border-radius: 50px;
+    margin-left: 50px;
+    height: 200px;
+    width: 254px;
+    border: 4px;
+    border-style: groove;
+    border-color: rgb(102, 70, 30);
+}
+.hobbie1{
+    font-size: 20px;
+    margin:10px
+}
+.hobbie2{
+    font-size: 20px;
+    margin:10px
+}
+.hobbie3{
+    font-size: 20px;
+    margin:10px
+}
+.texto1{
+    text-align: left;    
+}
+.suecia{
+    font-size: 20px;
+}
+.chile{
+    font-size: 20px;
+}
+.japao{
+    font-size: 20px;
+}
+.hobbies{
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+}
+a{
+    color: rgb(24, 132, 227);
+    font-size: 20px;
+}
+a:hover{
+    color: red;    
+}
+.texto2{
+    font-size: 20px;
+    font-weight: bold;
+}
+#motivacao{
+    font-size: 20px;
+    color: rgb(105, 55, 20);
+}
+#botao{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(225, 188, 110);
+    border-color: rgb(111, 78, 40);
+}
