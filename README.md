@@ -29,8 +29,8 @@ Este é um projeto **Front-end puro** e não requer comandos de servidor.
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone https://github.com/keykke/trabalho-facul.git
-    cd trabalho-facul
+    git clone https://github.com/keykke/trabalho-apresentacao-HTML-CSS-JS.git
+    cd trabalho-apresentacao-HTML-CSS-JS
     ```
 
 2.  **Abrir no Navegador:**
